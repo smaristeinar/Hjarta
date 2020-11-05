@@ -1,0 +1,34 @@
+.title-top{
+    display: flex;
+    flex-direction: column;    
+    align-items: center;
+    text-align: center;
+}
+
+
+.main{  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.takki{
+    margin: 10px;
+}
+
+.contents{
+    width: 50%;
+}
+.myndir{
+display: flex;
+justify-self: center;
+flex-wrap: wrap;
+text-align: center;
+
+}
+
+
+.myndir img{
+    max-width: 230px;
+    max-height: 230px;
+}
