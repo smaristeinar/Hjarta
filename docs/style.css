@@ -29,6 +29,6 @@ text-align: center;
 
 
 .myndir img{
-    max-width: 230px;
-    max-height: 230px;
+    width: 230px;
+    height: 230px;
 }
