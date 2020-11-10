@@ -1,11 +1,11 @@
 # Hjarta
 Hjarta er Augmented Reality tilraun til að byrta lystaverk í gegnum síman og út í heiminn.
 
-#Hvað verður notað?
+# Hvað verður notað?
 Hjarta mun bygjast á cóðasafninu hjá [Ar.js](https://ar-js-org.github.io/AR.js-Docs/ "AR.js")
 
 
-#hvernig á að nota Hjarta
+# hvernig á að nota Hjarta
 það verður til staðar merki sem þú skannar inn í gegnum síman.
 
 
